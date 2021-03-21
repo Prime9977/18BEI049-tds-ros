@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/user/mywrk/devel -DCMAKE_INSTALL_PREFIX=/home/user/mywrk/install -G Unix Makefiles
